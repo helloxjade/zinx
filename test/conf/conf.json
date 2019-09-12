@@ -1,0 +1,9 @@
+{
+  "IP": "0.0.0.0",
+  "Port": 8848,
+  "Name": "zinx-v0.5",
+  "Version": "tcp4",
+  "WorkSize": 4,
+  "TaskQueSize": 1000,
+  "ConnAllowSize": 2
+}
